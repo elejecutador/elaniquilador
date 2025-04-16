@@ -12,12 +12,14 @@ header {
 header .left {
     flex: 1; 
     background-size: cover;
+    background-image: url(imagenes/R.jpg); 
     background-position: center;
 }
 
 header .right {
     flex: 1; 
     background-size: cover;
+    background-image: url(imagenes/refeicao-tipica-do-oriente-medio-cozinha-arabe-que-e-uma-verdadeira-cozinha-de-festa-meze-vista-aerea-plana-e-vistas-superiores_410516-2483.avif);
     background-position: center;
 }
 
